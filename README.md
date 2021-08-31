@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khalilmdb
+- 👋 Hi, I’m @khalilmdb, my full legal name is Mohamed Khalil Mouaddib but just call me Khalil
 - 👀 I’m interested in making money
 - 🌱 I’m currently learning how to code from scratch
 - 💞️ I’m looking to collaborate on any projects

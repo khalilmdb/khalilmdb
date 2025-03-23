@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @khalilmdb, my full legal name is Mohamed Khalil Mouaddib but just call me Khalil
-- 👀 I’m interested in making money
-- 🌱 I’m currently learning how to code from scratch
+- 👋 Hi, I’m @khalilmdb, just call me Khalil!
+- 🧑‍💻 Proficient in Python, Java, C/C++, HTML/CSS, React Native, and others
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me: insta: @khalilmdb, email: mmouaddi@purdue.edu
+- 📫 email: mouaddibkhalil@gmail.com
 
 <!---
 khalilmdb/khalilmdb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
